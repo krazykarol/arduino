@@ -1,0 +1,11 @@
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+trigPin  LITERAL1
+echoPin LITERAL1
+MOTOR_SPEED  LITERAL1
+SEND_DELAY LITERAL1
+RECIEVE_DELAY LITERAL1
+MIN_DISTANCE  LITERAL1
